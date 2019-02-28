@@ -8,7 +8,7 @@ I want to start a business in South Florida and need to be associated or get in 
 
 The idea behind this project is to find out the most common venues within Boca Raton and then find the cities that are alike with Boca. The algorithm to be used is k-means clustering so I can find out the cities that share common characteristics with Boca. As the first step, I need to find out the top venue categories and top venues in Boca Raton and to expand my market; I need to find out the cities that are like Boca Raton.
 
-### Data and the usage
+## Data and the usage
 
 - Data about the list of South Florida Cities obtained from Wikipedia: This is used to get the list of cities for consideration
 - Coordinates of these cities from my Github repo obtained from google maps: This is used to drop pins at these cities and search venues around
